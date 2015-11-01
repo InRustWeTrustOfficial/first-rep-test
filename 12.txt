@@ -1,2 +1,2 @@
-print ("OOP is famous!");
-print new feature
+print ("OOP is famous!;");
+print new feature;
