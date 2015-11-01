@@ -1,1 +1,2 @@
-print "OOP is famous!"
+print ("OOP is famous!");
+print ("I love earl-grey!");
