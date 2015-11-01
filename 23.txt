@@ -1,4 +1,2 @@
 good code
 awesome code
---new feature--
-something new has been added
